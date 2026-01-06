@@ -15,25 +15,6 @@ Designed as a backend-focused project to demonstrate log parsing, data aggregati
 
 ---
 
-## Project Structure
-
-web-log-analyzer/
-│
-├── logs/
-│   ├── sample1.log
-│   └── sample2.log
-│
-├── reports/            # Generated reports
-│
-├── main.cpp            # Entry point
-├── parser.cpp          # Log parsing logic
-├── analyzer.cpp        # Analysis & report generation
-├── visualize.py        # Report visualization
-├── Makefile
-└── README.md
-
----
-
 ## Build
 
 Requires a C++17 compatible compiler.
