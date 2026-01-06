@@ -62,7 +62,7 @@ Requirements: Plotly, Pandas
     python visualize.py reports/report.csv
 
 You will get an HTML dashboard like this:
-![Analyzer Output](https://github.com/Ashwath-001/Log-Analyzer/main/images/demo.jpg)
+![Analyzer Output](https://github.com/Ashwath-001/Log-Analyzer/blob/main/images/dummy.jpg)
 ---
 
 ## Tech Stack
