@@ -62,7 +62,7 @@ Requirements: Plotly, Pandas
     python visualize.py reports/report.csv
 
 You will get an HTML dashboard like this:
-![Web Log Analyzer Demo](images/demo.jpg)
+!(images/demo.jpg)
 ---
 
 ## Tech Stack
