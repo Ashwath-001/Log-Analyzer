@@ -32,13 +32,13 @@ This generates the executable `log_analyzer`.
 Analyze a single log file:
 
 
-./log_analyzer logs/sample.log
+    ./log_analyzer logs/sample.log
 
 
 Analyze multiple log files:
 
 
-./log_analyzer logs/sample.log logs/sample2.log
+    ./log_analyzer logs/sample.log logs/sample2.log
 
 
 ---
